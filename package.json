@@ -1,7 +1,7 @@
 {
   "name": "tic-tac-toe",
   "version": "1.0.0",
-  "description": "Simple tic tac toe game to be implemented with lambdas and api gateway",
+  "description": "Simple tic tac toe game API",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
